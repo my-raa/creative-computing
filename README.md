@@ -1,3 +1,3 @@
-# The Accessibility of Software Design from the Hands of Few to Many
+# How Has GitHub Increased Accessiblility of Software Design?
 
 
