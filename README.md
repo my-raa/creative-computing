@@ -1,3 +1,3 @@
-# Creative Computing
+# Exploring the Accessibility of Software Design
 
 
