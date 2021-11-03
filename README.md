@@ -6,5 +6,10 @@
 
 ― Shinichi Suzuki, Nurtured by Love: The Classic Approach to Talent Education
 
+Suzuki was a great musician and teacher who believed that "**ability** is not an **inborn talent**, but an ability which can be developed", which I resonated a lot with during this project. We may not feel as though everything comes naturally to us, however it's the process that ends up making it worth while once accomplished.
+
+Through learning about creative computing, I understood the value that **open source** has in the accessibility to knowledge and power that coding and computing has in educating the next generation of creators.
+
+
 
 
