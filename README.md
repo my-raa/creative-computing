@@ -10,7 +10,7 @@
 
 Suzuki was a great musician and teacher who believed that "**ability** is not an **inborn talent**, but an ability which can be developed". We may not feel as though everything comes naturally to us, however it's the process that ends up making it worth while once accomplished.
 
-Through learning about creative computing, I understood the value that **open source** has in the accessibility to knowledge and power that coding and computing created in educating the next generation.
+Through learning about creative computing, I understood the value that **open source** has in the accessibility to knowledge and power that coding and computing created in educating the next generation. 
 
   ## Open source 
 
@@ -18,11 +18,12 @@ Through learning about creative computing, I understood the value that **open so
   
   ## TinkerCAD & Ardunio
   
-  *Arduino* is an *open source* platform and user community that is designed to increase accessibility for electronics and build environments.
+  **Arduino** is an **open source** platform and user community that is designed to increase accessibility for electronics and build environments.
   
-  *TinkerCAD* is an online program that anyone can access to experiment and learn 3D modelling. This is a very useful resource for anyone that wants to experiment with a new medium as they have multiple tutorials om their platform to educate users as well as encourage them to explore the resource itself.
+  **TinkerCAD** is an online program that anyone can access to experiment and learn 3D modelling. This is a very useful resource for anyone that wants to experiment with a new medium as they have multiple tutorials om their platform to educate users as well as encourage them to explore the resource itself.
+  
+  Through tiral and error, I eventually successfully learned how to use 3D modelling software and the basics of code, something I never thought I would be able to accomplish at the beginning of this project. One this I would say to the future is to *be comfortable with being uncofortable* and always persevere when trying something new.
 
-  
 ## Bibliography
 
   PINTEREST (2021) Shinichi Suzuki Image B&W. [Online image] Available from: https://i.pinimg.com/originals/fb/39/d6/fb39d6b04ce89b11ff443750fdc14101.jpg [Accessed Wednesday 3rd November 2021].
