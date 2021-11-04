@@ -22,7 +22,7 @@ Through learning about creative computing, I understood the value that **open so
   
   **TinkerCAD** is an online program that anyone can access to experiment and learn 3D modelling. This is a very useful resource for anyone that wants to experiment with a new medium as they have multiple tutorials om their platform to educate users as well as encourage them to explore the resource itself.
   
-  Through tiral and error, I eventually successfully learned how to use 3D modelling software and the basics of code, something I never thought I would be able to accomplish at the beginning of this project. One this I would say to the future is to *be comfortable with being uncofortable* and always persevere when trying something new.
+  Through trial and error, I eventually successfully learned how to use 3D modelling software and the basics of code, something I never thought I would be able to accomplish at the beginning of this project. One this I would say to the future is to *be comfortable with being uncofortable* and always persevere when trying something new.
 
 ## Bibliography
 
