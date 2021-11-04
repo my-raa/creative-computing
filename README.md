@@ -18,13 +18,19 @@ Through learning about creative computing, I understood the value that **open so
   
   ## TinkerCAD & Ardunio
   
-  Arduino is  
+  *Arduino* is an *open source* platform and user community that is designed to increase accessibility for electronics and build environments.
+  
+  *TinkerCAD* is an online program that anyone can access to experiment and learn 3D modelling. This is a very useful resource for anyone that wants to experiment with a new medium as they have multiple tutorials om their platform to educate users as well as encourage them to explore the resource itself.
 
   
 ## Bibliography
 
   PINTEREST (2021) Shinichi Suzuki Image B&W. [Online image] Available from: https://i.pinimg.com/originals/fb/39/d6/fb39d6b04ce89b11ff443750fdc14101.jpg [Accessed Wednesday 3rd November 2021].
 
+  Soleio Cuervo. (27th February 2020). Open Source Design: Design is the Future of Open Source - Soleio, Combine (Config). Available from: https://youtu.be/2jlt-1E1Ee0. Last accessed Tuesday 2nd November 2021.
+  
+  
+  
 
 
 
