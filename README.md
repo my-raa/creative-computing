@@ -24,9 +24,11 @@ Through learning about creative computing, I understood the value that **open so
   
   ## TinkerCAD & Arduino
   
-- **Arduino** is an **open source** platform and user community that is designed to increase accessibility for electronics and build environments.
+  <img width="1114" alt="Arduino TinkerCAD 2021-11-04 at 01 38 40" src="https://user-images.githubusercontent.com/93598538/140444490-8e31c200-a20d-43e0-a189-ca10c35c1a37.png">
+
+> - **Arduino** is an **open source** platform and user community that is designed to increase accessibility for electronics and build environments.
   
-- **TinkerCAD** is an online program that anyone can access to experiment and learn 3D modelling. This is a very useful resource for anyone that wants to experiment with new mediums, such as  **Arduino**, as they have multiple tutorials on their platform to educate users as well as encourage them to explore the resource itself.
+> - **TinkerCAD** is an online program that anyone can access to experiment and learn 3D modelling. This is a very useful resource for anyone that wants to experiment with new mediums, such as  **Arduino**, as they have multiple tutorials on their platform to educate users as well as encourage them to explore the resource itself.
 
 ## Open Source 
 
