@@ -1,7 +1,7 @@
 # For The Future Learners
 
-  ![suzuki photo creative computing](https://user-images.githubusercontent.com/93598538/140325863-1362e64b-9f30-4779-8498-aabefa45c4e0.jpg)
-
+  ![Creative Computing Suzuki Image colour pixel_](https://user-images.githubusercontent.com/93598538/140447814-c1455ce5-288d-4fa4-8a83-3604d191b4ff.jpg)
+  
   >“Anything you think of doing, however insignificant, should be done immediately. Spur yourself on and carry it through without becoming discouraged. If this becomes an ingrained habit, things you thought were impossible will become possible, and closed doors will open, as you will discover in many ways.” 
 
 **― Shinichi Suzuki**, Nurtured by Love: *The Classic Approach to Talent Education*
